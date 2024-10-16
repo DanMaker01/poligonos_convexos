@@ -1,3 +1,6 @@
+
+---------------------------------------
+
 setup:
 
   create convex polygons
@@ -5,7 +8,7 @@ setup:
   a intersection of n convex polygons is a convex polygon 
   get the convex polygon result 
 
-
+---------------------------------------
   
 run:
 
