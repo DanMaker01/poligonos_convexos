@@ -1,4 +1,5 @@
 setup:
+
   create convex polygons
   intersect convex polygons
   a intersection of n convex polygons is a convex polygon 
@@ -7,6 +8,7 @@ setup:
 
   
 run:
+
   python main.py
 
   
